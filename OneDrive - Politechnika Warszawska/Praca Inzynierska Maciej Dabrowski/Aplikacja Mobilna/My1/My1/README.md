@@ -2,7 +2,7 @@
 
 Przedmiotem pracy jest projekt Robota kuchennego sterowanego za pomocą aplikacji mobilnej, który ma za zadanie automatycznie przygotowywać posiłki. Prezentowany system ma zwolnić człowieka z obowiązku przygotowywania jedzenia oraz pomóc w monotonnych czynnościach podczas przyrządzania posiłków. Projekt składa się z zrobotyzowanego ramienia antropomorficznego, którego zadaniem jest wykonywanie różnego rodzaju dań lub operacji, aplikacji mobilnej napisanej dla użytkownika systemu Android, za pomocą której robot jest sterowany oraz z funkcji w środowisku IDE Arduino z których użytkownik tworzy algorytm pracy, poprzez odpowiednie ich ustawienie. Komunikacja pomiędzy aplikacją a urządzeniem odbywa się za pośrednictwem kanału Bluetooth. W środowisku GitHub umieszczono jedynie kod źódłowy aplikacji mobilnej do sterowania robota kuchennego zaprojektowanego w ramach pracy inżynierskiej. 
 
-### Krótki opis aplikacji
+###### Krótki opis aplikacji
 
 Ekran startowy aplikacji umożliwiający wyszukiwanie pobliskich urządzeń Bluetooth i wypisuje ich adresy MAC w liście
 
